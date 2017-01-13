@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment1.params=e
+comment1.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment10.params=
+comment10.target=void\ pattern()
+comment11.params=
+comment11.target=void\ reset()
+comment2.params=
+comment2.target=boolean\ checkAndMark()
+comment3.params=
+comment3.target=void\ initThread()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=size
+comment5.target=World(int)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=
+comment7.target=void\ step()
+comment7.text=\r\n\ Rules\ of\ Conway's\ Game\ of\ Life\r\n\ \r\n\ If\ a\ live\ cell\ has\ fewer\ than\ 2\ or\ more\ than\ 3\ neighbours\ it\ dies.\r\n\ If\ a\ dead\ cell\ had\ exactly\ 3\ neighbours,\ it\ comes\ to\ life.\r\n\ \r\n\ \r\n
+comment8.params=row\ column
+comment8.target=int\ getNumberOfLiveNeighbours(int,\ int)
+comment9.params=
+comment9.target=void\ display()
+numComments=12
